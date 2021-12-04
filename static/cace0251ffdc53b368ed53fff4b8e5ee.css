@@ -6706,14 +6706,14 @@ figure figcaption {
 
 @font-face {
     font-family: 'Glyphicons Halflings';
-    src: url('/static/glyphicons-halflings-regular.eot');
-    src: url('/static/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/static/glyphicons-halflings-regular.woff') format('woff'), url('/static/glyphicons-halflings-regular.ttf') format('truetype'), url('/static/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg')
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.ttf') format('truetype'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg')
 }
 
 @font-face {
     font-family: 'fontawesome';
-    src: url('/static/fontawesome-v3.eot');
-    src: url('/static/fontawesome-v3.eot?#iefix') format('embedded-opentype'), url('/static/fontawesome-v3.woff') format('woff'), url('/static/fontawesome-v3.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-v3.eot');
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-v3.eot?#iefix') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-v3.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-v3.ttf') format('truetype');
     font-weight: normal;
     font-style: normal
 }
@@ -14113,8 +14113,8 @@ body #phantom .menu-info-box {
 /* fontawesome_css: (https://5e047c7b4052b.t74.qifeiye.com/qfy-content/themes/qfy-01/css/font-awesome.min.css) */
 @font-face {
     font-family: 'fontawesome';
-    src: url('/static/fontawesome-webfont.eot');
-    src: url('/static/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('/static/fontawesome-webfont.woff') format('woff'), url('/static/fontawesome-webfont.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-webfont.eot');
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-webfont.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal
 }
@@ -16320,14 +16320,14 @@ body #phantom .menu-info-box {
 
 @font-face {
     font-family: 'Glyphicons Halflings';
-    src: url('/static/glyphicons-halflings-regular.eot');
-    src: url('/static/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/static/glyphicons-halflings-regular.woff') format('woff'), url('/static/glyphicons-halflings-regular.ttf') format('truetype'), url('/static/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg')
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.ttf') format('truetype'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg')
 }
 
 @font-face {
     font-family: 'fontawesome';
-    src: url('/static/fontawesome-v3.eot');
-    src: url('/static/fontawesome-v3.eot?#iefix') format('embedded-opentype'), url('/static/fontawesome-v3.woff') format('woff'), url('/static/fontawesome-v3.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-v3.eot');
+    src: url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-v3.eot?#iefix') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-v3.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/sfindme/afindme/static/fontawesome-v3.ttf') format('truetype');
     font-weight: normal;
     font-style: normal
 }
